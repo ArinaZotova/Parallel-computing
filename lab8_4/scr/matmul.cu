@@ -1,4 +1,3 @@
-%%writefile matmul.cu
 #include <iostream>
 #include <cuda_runtime.h>
 #include <cmath>
