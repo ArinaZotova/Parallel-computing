@@ -1,4 +1,3 @@
-%%writefile bandwidth.cu
 #include <iostream>
 #include <cuda_runtime.h>
 
