@@ -1,4 +1,3 @@
-%%writefile dev_prop.cu
 #include <iostream>
 #include <cuda_runtime.h>
 
